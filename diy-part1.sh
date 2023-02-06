@@ -19,3 +19,4 @@
 
 echo "src-git vernesong https://github.com/vernesong/OpenClash.git"  >> feeds.conf.default
 echo "src-git sirpdboy https://github.com/sirpdboy/sirpdboy-package" >> feeds.conf.default
+echo "src-git opentopd https://github.com/sirpdboy/luci-theme-opentopd.git" >> feeds.conf.default
